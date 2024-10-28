@@ -3,12 +3,13 @@ Given a letter, print a diamond starting with ‘A’ with the supplied letter a
 
 For example: print-diamond ‘C’ prints
 
+```
   A
  B B
 C   C
  B B
   A
-
+```
 My code returns the diamond as an arraylist of strings representing each row of the diamond shape. 
 
 The way the code works is:
